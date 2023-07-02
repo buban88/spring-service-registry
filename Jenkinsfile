@@ -8,7 +8,7 @@ node{
              extensions: [],
              submoduleCfg: [],
              userRemoteConfigs: [[credentialsId: 'git',
-             url: 'https://github.com/buban88/Forecast-Weather-Application.git']]
+             url: 'https://github.com/buban88/spring-service-registry.git']]
          ])
     }
     stage('Build and Push Image') {
